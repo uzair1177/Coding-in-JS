@@ -1,0 +1,2 @@
+let a="My first program in JS";
+console.log(a);
